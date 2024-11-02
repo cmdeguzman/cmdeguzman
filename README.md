@@ -6,15 +6,15 @@
 
 
 - ⚡ Skillset:
-Technical Skills:
-Programming Languages: Proficient in Java, and SQL.
+     Technical Skills:
+     Programming Languages: Proficient in Java, and SQL.
 
-Soft Skills:
-Problem Solving: Strong analytical skills with a keen ability to solve complex problems.
+     Soft Skills:
+     Problem Solving: Strong analytical skills with a keen ability to solve complex problems.
 
-Communication: Excellent verbal and written communication skills; able to present findings clearly to technical and non-technical stakeholders.
+     Communication: Excellent verbal and written communication skills; able to present findings clearly to technical and non-technical stakeholders.
 
-Team Collaboration: Experience working in Agile teams, contributing to collaborative projects and peer reviews.
+     Team Collaboration: Experience working in Agile teams, contributing to collaborative projects and peer reviews.
 
 
 <!---
