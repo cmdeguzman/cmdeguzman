@@ -5,12 +5,15 @@
 - 📫 How to reach me? Just email in mdg63611@gmail.com
 
 
--⚡ Skillset:
-Technical Skills
+- ⚡ Skillset:
+Technical Skills:
 Programming Languages: Proficient in Java, and SQL.
-Soft Skills
+
+Soft Skills:
 Problem Solving: Strong analytical skills with a keen ability to solve complex problems.
+
 Communication: Excellent verbal and written communication skills; able to present findings clearly to technical and non-technical stakeholders.
+
 Team Collaboration: Experience working in Agile teams, contributing to collaborative projects and peer reviews.
 
 
