@@ -11,7 +11,7 @@
 
  Data Foundations Associate       -------------> https://shorturl.at/D0f0v  
 
- OCI AI Foundations Associate 2024 ------> https://shorturl.at/Eg34x
+ OCI AI Foundations Associate 2024 -----> https://shorturl.at/Eg34x
 
 
 
