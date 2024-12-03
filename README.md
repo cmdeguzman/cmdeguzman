@@ -6,9 +6,9 @@
 
  SQL and Relational Databases 101 ------> https://courses.cognitiveclass.ai/certificates/4a5e5da377594811a80d3aa67e3e12a5#
 
- Oracle Cloud Infrastructure 2024 ------> https://shorturl.at/4onb4
+ Oracle Cloud Infrastructure 2024 ---------> https://shorturl.at/4onb4
 
- Data Foundations Associate       ------> https://shorturl.at/D0f0v
+ Data Foundations Associate       ------------> https://shorturl.at/D0f0v
                      
 - 📫 How to reach me? Just email in mdg63611@gmail.com
 
