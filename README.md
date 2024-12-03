@@ -9,7 +9,9 @@
 
  Oracle Cloud Infrastructure 2024 --------> https://shorturl.at/4onb4
 
- Data Foundations Associate       -------------> https://shorturl.at/D0f0v     
+ Data Foundations Associate       -------------> https://shorturl.at/D0f0v  
+
+ OCI AI Foundations Associate 2024 ------> https://shorturl.at/Eg34x
 
 
 
@@ -22,13 +24,13 @@
    Technical Skills:
    Programming Languages: Proficient in Java, and SQL.
 
-  Soft Skills:
+- Soft Skills:
    Problem Solving: Strong analytical skills with a keen ability to solve complex problems.
 
-  Communication:
+- Communication:
    Excellent verbal and written communication skills; able to present findings clearly to technical and non-technical stakeholders.
 
-  Team Collaboration:
+- Team Collaboration:
    Experience working in Agile teams, contributing to collaborative projects and peer reviews.
 
 
