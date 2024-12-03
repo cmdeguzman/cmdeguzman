@@ -10,6 +10,14 @@
 
  Data Foundations Associate       -------------> https://shorturl.at/D0f0v
                      
+
+
+
+
+
+
+
+
 -  How to reach me? Just email in mdg63611@gmail.com
 
 - Skillset:
