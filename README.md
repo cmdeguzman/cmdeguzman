@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cmdeguzman
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning SQL and JAVA
+- Hi, I’m @cmdeguzman
+- I’m interested in Programming
+- I’m currently learning SQL and JAVA
 
-- 💞️ Certification:
+- Certification:
 
  SQL and Relational Databases 101 ------> https://courses.cognitiveclass.ai/certificates/4a5e5da377594811a80d3aa67e3e12a5#
 
@@ -10,18 +10,20 @@
 
  Data Foundations Associate       -------------> https://shorturl.at/D0f0v
                      
-- 📫 How to reach me? Just email in mdg63611@gmail.com
+-  How to reach me? Just email in mdg63611@gmail.com
 
-- ⚡ Skillset:
-     Technical Skills:
-     Programming Languages: Proficient in Java, and SQL.
+- Skillset:
+   Technical Skills:
+   Programming Languages: Proficient in Java, and SQL.
 
-     Soft Skills:
-     Problem Solving: Strong analytical skills with a keen ability to solve complex problems.
+  Soft Skills:
+   Problem Solving: Strong analytical skills with a keen ability to solve complex problems.
 
-     Communication: Excellent verbal and written communication skills; able to present findings clearly to technical and non-technical stakeholders.
+  Communication:
+   Excellent verbal and written communication skills; able to present findings clearly to technical and non-technical stakeholders.
 
-     Team Collaboration: Experience working in Agile teams, contributing to collaborative projects and peer reviews.
+  Team Collaboration:
+   Experience working in Agile teams, contributing to collaborative projects and peer reviews.
 
 
 <!---
